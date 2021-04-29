@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. Lemurs
+2. Books 
+3. Octopus 
+
+* Dogs
+* Cats 
+* Chocolate
